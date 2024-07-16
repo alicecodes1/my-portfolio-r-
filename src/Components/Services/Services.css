@@ -9,3 +9,7 @@
 .services-title{
     position: relative;
 }
+.services-title h1{
+    padding: 0px 30px;
+    
+}
