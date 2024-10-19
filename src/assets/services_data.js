@@ -23,6 +23,11 @@ const Services_Data = [
         s_no: "05",
         s_name: "Project Management",
         s_desc: "Planning, executing, and overseeing projects to ensure timely and successful completion"
+    },
+    {
+        s_no: "06",
+        s_name: "Project Management",
+        s_desc: "Planning, executing, and overseeing projects to ensure timely and successful completion"
     }
 ];
 
